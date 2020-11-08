@@ -8,6 +8,8 @@ from .xception import *
 from .nasnet import *
 from .pnasnet import *
 from .selecsls import *
+from .tselecsls import *
+from .tselecsls_aa import *
 from .efficientnet import *
 from .mobilenetv3 import *
 from .inception_v3 import *
